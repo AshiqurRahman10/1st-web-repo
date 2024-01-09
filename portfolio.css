@@ -128,4 +128,12 @@ main{
 }
 .about-info{
     text-align: center;
+
+
+}
+.info-description{
+    margin-top: 0px;
+}
+.info-title{
+    margin-bottom: 0px;
 }
